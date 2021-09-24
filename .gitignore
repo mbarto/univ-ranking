@@ -104,7 +104,9 @@ dist
 .tern-port
 
 archives/
+archives_subjects/
 institutions/
+institutions_subjects/
 subjects/
 *.csv
 *.html
